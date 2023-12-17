@@ -1,2 +1,2 @@
 # Javacode
-here we practice jada code
+Here we practice jada code
